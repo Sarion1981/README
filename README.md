@@ -18,3 +18,5 @@ In my opinion one part of the problem is the need to control everything for peop
 I think all lives should be valued and protected and to do so we must better understand it. Also i learned much what i got teached back in school was not true, so i prefer now doing this by myself and maybe find a better way.
 This is not against technology or advancement, it should support it!
 
+Additional information: I can so far use the following languages:
+HTML, CSS, JavaScript, TypeScript, React, Python, C#, SQL,Express.js, Node.js, Visual Basic
