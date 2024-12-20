@@ -20,8 +20,7 @@ I think all lives should be valued and protected and to do so we must better und
 This is not against technology or advancement, it should support it!
 
 # Spoken Languages (fluent)
-English
-German
+English, German
 
 # known programming languages
 HTML, CSS, JavaScript, TypeScript, React, Python, C#, SQL,Express.js, Node.js, Visual Basic
