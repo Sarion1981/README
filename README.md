@@ -1,5 +1,6 @@
 # README
 
+# Personal Information:
 Helllo,
 
 my Name is Felix. I was born 1981 in germany. My dad was an US Soldier and my mom german. Since my dad needed to leave after i was born, my mom gave me to adoption so i don't know them.
@@ -18,5 +19,15 @@ In my opinion one part of the problem is the need to control everything for peop
 I think all lives should be valued and protected and to do so we must better understand it. Also i learned much what i got teached back in school was not true, so i prefer now doing this by myself and maybe find a better way.
 This is not against technology or advancement, it should support it!
 
-Additional information: I can so far use the following languages:
+# Spoken Languages (fluent)
+English
+German
+
+# known programming languages
 HTML, CSS, JavaScript, TypeScript, React, Python, C#, SQL,Express.js, Node.js, Visual Basic
+
+# Additional Skills
+Adobe In Design, Adobe Photoshop, MS Azure, MS Office 365
+Safety and Security Expert in Germany
+Microsoft AI Technican knowledge
+
