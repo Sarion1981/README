@@ -26,7 +26,7 @@ English, German
 HTML, CSS, JavaScript, TypeScript, React, Python, C#, SQL,Express.js, Node.js, Visual Basic
 
 # Additional Skills
-Adobe In Design, Adobe Photoshop, MS Azure, MS Office 365
-Safety and Security Expert in Germany
+Adobe In Design, Adobe Photoshop, MS Azure, MS Office 365 <br>
+Safety and Security Expert in Germany <br>
 Microsoft AI Technican knowledge
 
