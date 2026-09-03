@@ -1,26 +1,64 @@
 # README
 
-# Personal Information:
-Helllo,
+# 👋 Hallo, ich bin Felix Schilling (Sarion1981)
 
-my Name is Felix. I was born 1981 in germany. My dad was an US Soldier and my mom german. Since my dad needed to leave after i was born, my mom gave me to adoption so i don't know them.
-I speak german and english language fluent and a bit of chinese, japanese and spanish.
-Im married. My wife came from China and became an approved nurse in germany.
-We have a Dog and a Cat in Home. 
-I work in IT since 1999 where i was Teamleader at technical support in a medium Company in germany.
-Also i worked for some smaller companies as well as government institutions here in germany already.
-Im fond of Azure Server and Administration, and im very interested in AI development. 
-This is in germany nowdays not valueable since this country sadly seems to be around 20-30 years outdated when it comes to IT knowledge.
-So im planning a few personal projects related to this... I will inform you about them seperatly. :)
-I think use of AI can enhance quality of life and education enormus if used right. But the problem is we need to get used to it and understand AI now, not in 20 years.
-I strive to achive a better coexistence with animals and nature by better understanding eachother with the help of AI.
-Also i think Azure AI is a great way to do so. I am planning to release my records puplicly for all to see and learn if they want.
-In my opinion one part of the problem is the need to control everything for people and by this way make all subordinate to our laws... like killing animals, destroying plants or restricting life in all forms (even people).
-I think all lives should be valued and protected and to do so we must better understand it. Also i learned much what i got teached back in school was not true, so i prefer now doing this by myself and maybe find a better way.
-This is not against technology or advancement, it should support it!
+### **Cloud / DevOps Engineer & AI Systems Developer**
+*Spezialisiert auf Platform Engineering, Cloud-Native Security (Zero-Trust) und deterministische KI-Infrastrukturen.*
+
+---
+
+## ⚡ Core Expertise & Tech Stack
+
+*   **Infrastruktur & Cloud:** AWS | Azure | Terraform (IaC) | VPC Micro-Segmentation
+*   **Security & Hardware:** TPM 2.0 (TSS/TCG) | Zero-Trust Perimeters | Remote Attestation | Cryptography (ED25519)
+*   **KI & Automation:** Python | AI Pipelines | MLOps | Autonomous Systems (Drones/IoT)
+*   **Languages & Tech:** Rust | Go | C# (.NET Core) | Linux Kernel Telemetry (eBPF)
+
+---
+
+## 🚀 Highlight-Projekte
+
+### 🛡️ [pupsi-identity-core](https://github.com/Sarion1981/pupsi-identity-core)
+**Next-Gen Platform Engineering & Cloud-Native Security Framework**
+*   **Fokus:** Hardware Root of Trust (TPM 2.0) statt anfälliger KI-Heuristiken.
+*   **Features:** Deterministic Verification Engine (Rust), Cloud-Perimeter-Isolierung (AWS via Terraform), Hardware Identity Anchor (Go) und AI-Pipeline-Guardrails (Python).
+*   **Architektur:** IPv6-native, gRPC, Zero-Trust Micro-Segmentation.
+
+### 🛸 [Lights-Drone](https://github.com)
+**Autonomous Azure AI Drone Control**
+*   **Fokus:** IoT, KI-gestützte Bewegungserkennung und automatisierte Hardware-Steuerung für solarbetriebene Infrastrukturen.
+
+### 🐕 Processing & Bioacoustics AI Engines (`dog-language` / `cats-language`)
+**Edge-AI & Verhaltensanalyse**
+*   **Fokus:** Audio- und visuelle Mustererkennung zur Übersetzung und Analyse von Tierverhalten mittels Machine Learning.
+
+---
+
+## 🛡️ Zertifizierungen & Credentials
+
+*   **Mimo Professional Track:** Full-Stack, AI & Systems Engineering (Backend API Architecture, Python AI Development, Database Design).
+*   **Cloud Architecture & Security:** IAM, Automated Compliance & Secure Edge Infrastructure. 
+    *   *Verifizierbar via [Credly](https://credly.com) & VirtualBadge.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Felix GitHub Stats" />
+</p>
+
+---
+
+## 📫 Hier findest du mich
+*   **LinkedIn:** [Felix Schilling](https://linkedin.com)
+*   **Microsoft Learn:** [Hoppergas-0017](https://microsoft.com)
+
 
 # Spoken Languages (fluent)
 English, German
+# beginner
+chinese, japanese, spanish
 
 # known programming languages
 HTML, CSS, JavaScript, TypeScript, React, Python, C#, SQL,Express.js, Node.js, Visual Basic
